@@ -1,3 +1,6 @@
+---
+license: mit
+---
 # VGen
 
 
@@ -199,7 +202,7 @@ In a few minutes, you can retrieve the high-definition video you wish to create 
       <p>Input Image</p>
     </center></td>
     <td ><center>
-      <p>Clike <a href="https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442102706767.mp4">HRER</a> to view the generated video.</p>
+      <p>Clike <a href="https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442102706767.mp4">HERE</a> to view the generated video.</p>
     </center></td>
   </tr> 
   <tr>
@@ -216,7 +219,7 @@ In a few minutes, you can retrieve the high-definition video you wish to create 
       <p>Input Image</p>
     </center></td>
     <td ><center>
-      <p>Clike <a href="https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442163934688.mp4">HRER</a> to view the generated video.</p>
+      <p>Clike <a href="https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/442163934688.mp4">HERE</a> to view the generated video.</p>
     </center></td>
   </tr> 
 </center>
